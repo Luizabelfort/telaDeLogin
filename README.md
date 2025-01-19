@@ -3,10 +3,6 @@
 
 <div align="center">
   <img src="Captura de Tela (2).png" width="90%">
-
-[Sobre](#hippopotamus-sobre) • [Demonstração](#desktop_computer-demonstração) • [Construido com](#rocket-Desenvolvido-com)
- • [Protótipo](#jigsaw-protótipo) • [Como executar](#bulb-como-executar) • [Autora](#star-autores) 
-
 </div>
  
 ---
